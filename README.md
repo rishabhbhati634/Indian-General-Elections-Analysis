@@ -1,9 +1,7 @@
-# Indian Election 2014 and 2019 Analysis by Saddam Ansari
-
-## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+# Indian Election 2014 and 2019 Analysis by Rishabh Bhati
 
 
-### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/zhRi6m)
+
 
 ## Project Overview:
 ![Screenshot 2024-07-26 170044](https://github.com/user-attachments/assets/dc469bb7-addd-44f6-930d-95074e04c96e)
@@ -83,22 +81,4 @@ This dashboard offers a detailed and visually appealing analysis of the Indian G
 **4. Analytical Thinking:**
  * Analyzed the election data to identify key trends and patterns, such as the growth of BJP from 2014 to 2019 and the slight improvement in Congress's performance.
  * Interpreted the visualizations to draw meaningful conclusions about voter behavior, party performance, and regional political dynamics.
-
-## How you can help me:
-
-I've successfully completed over **80 Power BI projects**, all showcased in my [Novypro portfolio](https://www.novypro.com/profile_projects/saddamansari). You're all invited to visit my portfolio and explore these amazing projects!
-
-**Additionally, I'm currently seeking internship or entry-level opportunities. If you have any opportunities available or need a freelance Power BI project completed, please connect with me on LinkedIn.**
-
-Looking forward to connecting with you all!
-
-#
-
-### Created and Presented by-
-
-Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-
-Location: India
-
-THE END
 
